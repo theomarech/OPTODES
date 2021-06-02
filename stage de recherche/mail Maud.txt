@@ -1,0 +1,31 @@
+Théo,
+
+Je t’ai mis sur ton pccommun un dossier nommé « 2019 – Stage Théo » qui comprend l’ensemble des données. Je te laisse le copier sur ton poste de travail.
+
+ 
+
+Pour info, chaque fichier Excel correspond à une optode :
+
+-          AbNu : à l’abris du vent, sans végétation ;
+
+-          AbVeg : à l’abris du vent, avec végétation ;
+
+-          ExNu : exposé au vent, sans végétation ;
+
+-          ExVeg : exposé au vent, avec végétation.
+
+ 
+
+Les données de vent sont regroupées dans le fichier Data_vent_Bisca ; les données des fectchs, dans le fichier Fetch_PAR40_Optodes_Hydrophytes.
+
+ 
+
+Le fichiers global, avec les données d’exposition déjà calculées, est nommé Data_All_Site_Fetch et a été obtenu via le script R que tu trouveras dans le dossier « 1- Scripts ». C’est à partir de ce fichier de données qu’il faudra faire l’analyse.
+
+ 
+
+N’hésite pas si tu as des questions.
+
+ 
+
+Maud
